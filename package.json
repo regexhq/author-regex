@@ -46,7 +46,7 @@
     "test": "mocha -R test"
   },
   "devDependencies": {
-    "should": "^4.0.4",
+    "should": "^11.1.1",
     "verb": ">= 0.2.6",
     "verb-tag-jscomments": ">= 0.2.0",
     "mocha": "*"
